@@ -8,12 +8,11 @@
             <!-- 아이콘 이미지 -->
             <img
               src="/public/images/ma/ma_content2/gabangdo_icon.png"
-              alt="가방도 아이콘" />
+              alt="가방도 아이콘"
+            />
             <!-- hover시 보일 텍스트 -->
             <div class="macontent2_icon_hover">
-              <h5>
-                짐운송, 보관,<br />차량 대절까지<br />당일 배송, 안전한 픽업
-              </h5>
+              <h5>짐운송, 보관,<br />차량 대절까지<br />당일 배송, 안전한 픽업</h5>
             </div>
           </a>
           <!-- 항상 보이는 텍스트 -->
@@ -27,7 +26,8 @@
             <!-- 아이콘 이미지 -->
             <img
               src="/public/images/ma/ma_content2/reservation_icon.png"
-              alt="예약도 아이콘" />
+              alt="예약도 아이콘"
+            />
             <!-- hover시 보일 텍스트 -->
             <div class="macontent2_icon_hover">
               <h5>
@@ -46,9 +46,7 @@
         <div class="macontent2_iconimg">
           <a href="#">
             <!-- 아이콘 이미지 -->
-            <img
-              src="/public/images/ma/ma_content2/cash_icon.png"
-              alt="요금도 아이콘" />
+            <img src="/public/images/ma/ma_content2/cash_icon.png" alt="요금도 아이콘" />
             <!-- hover시 보일 텍스트 -->
             <div class="macontent2_icon_hover">
               <h5>
@@ -68,7 +66,8 @@
             <!-- 아이콘 이미지 -->
             <img
               src="/public/images/ma/ma_content2/comunity_icon.png"
-              alt="소통도 아이콘" />
+              alt="소통도 아이콘"
+            />
             <!-- hover시 보일 텍스트 -->
             <div class="macontent2_icon_hover">
               <h5>
@@ -85,9 +84,7 @@
         <div class="macontent2_iconimg">
           <a href="#">
             <!-- 아이콘 이미지 -->
-            <img
-              src="/public/images/ma/ma_content2/trip_icon.png"
-              alt="여행도 아이콘" />
+            <img src="/public/images/ma/ma_content2/trip_icon.png" alt="여행도 아이콘" />
             <!-- hover시 보일 텍스트 -->
             <div class="macontent2_icon_hover">
               <h5>대구 축제, 관광지, 맛집<br />정보를 만나보세요.</h5>
@@ -112,7 +109,6 @@
 .macontent2_wrap .inner {
   margin-top: 50px;
   max-width: 1300px;
-  padding: 5%;
 }
 /* 아이콘 전체 영역 */
 .macontent2_icon {
